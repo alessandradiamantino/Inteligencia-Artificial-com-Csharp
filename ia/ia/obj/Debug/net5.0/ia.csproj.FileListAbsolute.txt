@@ -1,0 +1,32 @@
+C:\Users\aless\Desktop\ia\ia\bin\Debug\net5.0\ia.exe
+C:\Users\aless\Desktop\ia\ia\bin\Debug\net5.0\ia.deps.json
+C:\Users\aless\Desktop\ia\ia\bin\Debug\net5.0\ia.runtimeconfig.json
+C:\Users\aless\Desktop\ia\ia\bin\Debug\net5.0\ia.runtimeconfig.dev.json
+C:\Users\aless\Desktop\ia\ia\bin\Debug\net5.0\ia.dll
+C:\Users\aless\Desktop\ia\ia\bin\Debug\net5.0\ref\ia.dll
+C:\Users\aless\Desktop\ia\ia\bin\Debug\net5.0\ia.pdb
+C:\Users\aless\Desktop\ia\ia\obj\Debug\net5.0\ia.csprojAssemblyReference.cache
+C:\Users\aless\Desktop\ia\ia\obj\Debug\net5.0\ia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\ia\ia\obj\Debug\net5.0\ia.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\ia\ia\obj\Debug\net5.0\ia.AssemblyInfo.cs
+C:\Users\aless\Desktop\ia\ia\obj\Debug\net5.0\ia.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\ia\ia\obj\Debug\net5.0\ia.dll
+C:\Users\aless\Desktop\ia\ia\obj\Debug\net5.0\ref\ia.dll
+C:\Users\aless\Desktop\ia\ia\obj\Debug\net5.0\ia.pdb
+C:\Users\aless\Desktop\ia\ia\obj\Debug\net5.0\ia.genruntimeconfig.cache
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\bin\Debug\net5.0\ia.exe
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\bin\Debug\net5.0\ia.deps.json
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\bin\Debug\net5.0\ia.runtimeconfig.json
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\bin\Debug\net5.0\ia.runtimeconfig.dev.json
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\bin\Debug\net5.0\ia.dll
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\bin\Debug\net5.0\ref\ia.dll
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\bin\Debug\net5.0\ia.pdb
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\obj\Debug\net5.0\ia.csprojAssemblyReference.cache
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\obj\Debug\net5.0\ia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\obj\Debug\net5.0\ia.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\obj\Debug\net5.0\ia.AssemblyInfo.cs
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\obj\Debug\net5.0\ia.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\obj\Debug\net5.0\ia.dll
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\obj\Debug\net5.0\ref\ia.dll
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\obj\Debug\net5.0\ia.pdb
+C:\Users\aless\Desktop\EAD IF\Inteligência Artificial\ia\ia\obj\Debug\net5.0\ia.genruntimeconfig.cache
